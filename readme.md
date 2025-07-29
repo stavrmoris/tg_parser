@@ -74,7 +74,7 @@ Before running the project, you need to set up your environment variables.
 
 To launch the bot and the parser, run the following command in your terminal:
 
-`bash
+```bash
 python run.py
-``
+```
 Then write /sum to your telegram bot to get a summary of your channels
